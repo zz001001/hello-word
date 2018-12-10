@@ -384,7 +384,7 @@ void NewApple()
 	return;
 }
 
-BOOL IsBumpWall()
+BOOL IsBumpWall() //判断是否撞墙
 {
 	if(pHead->x==0||pHead->x==19||pHead->y==0||pHead->y==19)
 	{
