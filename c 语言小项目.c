@@ -394,7 +394,7 @@ BOOL IsBumpWall()
 	return FALSE;
 }
 
-BOOL IsEatItself()
+BOOL IsEatItself() //判断是否自咬
 {
 	snack *pmark=pHead->pnext;
 	while(pmark!=NULL)
