@@ -1,0 +1,23 @@
+﻿生成启动时间为 2018/12/13 13:43:17。
+     1>项目“D:\科林习题\俄罗斯方块1\俄罗斯方块1\俄罗斯方块1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\vs2012安装\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt "俄罗斯方块1.c"
+         俄罗斯方块1.c
+     1>d:\科林习题\俄罗斯方块1\俄罗斯方块1\俄罗斯方块1.c(484): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 c:\vs2012安装\vc\include\conio.h(133) : 参见“kbhit”的声明
+     1>d:\科林习题\俄罗斯方块1\俄罗斯方块1\俄罗斯方块1.c(486): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\vs2012安装\vc\include\conio.h(131) : 参见“getch”的声明
+     1>d:\科林习题\俄罗斯方块1\俄罗斯方块1\俄罗斯方块1.c(533): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 c:\vs2012安装\vc\include\conio.h(133) : 参见“kbhit”的声明
+     1>d:\科林习题\俄罗斯方块1\俄罗斯方块1\俄罗斯方块1.c(535): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\vs2012安装\vc\include\conio.h(131) : 参见“getch”的声明
+     1>d:\科林习题\俄罗斯方块1\俄罗斯方块1\俄罗斯方块1.c(573): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\vs2012安装\vc\include\conio.h(131) : 参见“getch”的声明
+       Link:
+         C:\vs2012安装\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\科林习题\俄罗斯方块1\Debug\俄罗斯方块1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\科林习题\俄罗斯方块1\Debug\俄罗斯方块1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\科林习题\俄罗斯方块1\Debug\俄罗斯方块1.lib" /MACHINE:X86 "Debug\俄罗斯方块1.obj"
+         俄罗斯方块1.vcxproj -> D:\科林习题\俄罗斯方块1\Debug\俄罗斯方块1.exe
+     1>已完成生成项目“D:\科林习题\俄罗斯方块1\俄罗斯方块1\俄罗斯方块1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.64
